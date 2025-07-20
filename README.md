@@ -1,4 +1,4 @@
-# 📊 LinkedIn Job Trend Analysis (Using Indeed for Educational Purposes)
+# LinkedIn Job Trend Analysis (Using Indeed for Educational Purposes)
 
 ---
 
@@ -37,7 +37,7 @@ This project scrapes job postings from **Indeed.com** to analyze skill demand tr
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Install Python packages:**
 
